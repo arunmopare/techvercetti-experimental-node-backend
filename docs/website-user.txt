@@ -1,0 +1,6 @@
+the ones who will be using our websites
+website users will be able to like comment, they can also post stuff
+userName
+id
+mail
+mobile Number

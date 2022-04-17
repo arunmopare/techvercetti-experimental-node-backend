@@ -1,0 +1,11 @@
+// user Properties
+id
+userName
+email
+mobile Number
+password
+roles: 
+    0 admin - can do anything
+    1 content-editor - can post and delete only his posts
+    2 website user - do we need users? 
+ß

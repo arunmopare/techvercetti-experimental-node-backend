@@ -1,0 +1,2 @@
+for speeding up the development process we will only use otp based auth
+that means no password based auth
